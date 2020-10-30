@@ -17,4 +17,4 @@
         <p><a href="${pageContext.request.contextPath}/new">新しいタスクの投稿</a></p>
 
     </c:param>
-</c:import>l>
+</c:import>
